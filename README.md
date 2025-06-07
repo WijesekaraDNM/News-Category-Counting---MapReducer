@@ -11,5 +11,10 @@ The project demonstrates:
 The dataset is a newsCategoryDataset form https://www.kaggle.com/datasets/rmisra/news-category-dataset. This News_Category_dataset_V3.json json dataset file was converted in to txt within New_Cleaned.txt using convert_json_to_text.py. 
 
 # Setup Instructions
+* Hadoop version: Hadoop 3.4.1
+* Python3 version: Python 3.12.3
+* SSH version OpenSSH_9.6p1 Ubuntu-3ubuntu13.11, OpenSSL 3.0.13
+* Java version: openjdk version "21.0.7"
+
 
 
